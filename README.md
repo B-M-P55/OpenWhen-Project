@@ -4,7 +4,7 @@ This is my first project on GitHub.
 OpenWhen - Emotional Support App
 
 Description
-OpenWhen is a simple, heartfelt Windows Forms application designed to provide emotional support and encouragement when you’re feeling various emotions.Users can select categories like "HAPPY," "SAD," or "other emotions," read inspiring messages, write down their feelings before and after reading, and save their responses for later reflection.
+OpenWhen is a simple, heartfelt Windows Forms application designed to provide emotional support and encouragement when you’re feeling various emotions. Users can select categories like "HAPPY," "SAD," or "other emotions," read inspiring messages, write down their feelings before and after reading, and save their responses for later reflection.
 
 The app says, "If you feel something, OpenWhen is always here!" and helps users process emotions with quotes from notable figures.
 
