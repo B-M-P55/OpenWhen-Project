@@ -1,4 +1,5 @@
-OpenWhen-Project
+OpenWhen
+
 This is my first project on GitHub.
 
 OpenWhen - Emotional Support App
